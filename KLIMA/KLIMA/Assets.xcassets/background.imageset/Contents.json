@@ -2,20 +2,34 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "wp2088506.jpg",
-      "scale" : "1x"
+      "filename" : "Lakeside_2019_NoDeer_Evening_UHD2.png"
     },
     {
       "idiom" : "universal",
-      "scale" : "2x"
+      "filename" : "Lakeside_2019_NoDeer_Evening_UHD2-1.png",
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ]
     },
     {
       "idiom" : "universal",
-      "scale" : "3x"
+      "filename" : "lakeside_2019_midnight.png",
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ]
     }
   ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
   }
 }
